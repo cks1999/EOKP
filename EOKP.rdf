@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://eokh.org/eokp#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://eokh.org/eokp#data0000003">
+    <rdf:type rdf:resource="http://eokh.org/eokp#data"/>
+    <ns1:uid>data0000003</ns1:uid>
+    <ns1:title>Landsat-8-OLI_TIRS raw remote sensing image dataset for China region, May 2013-April 2022</ns1:title>
+    <ns1:resource_url>https://data.casearth.cn/sdo/detail/6253cddb819aec49731a4b61</ns1:resource_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#data0000011">
+    <rdf:type rdf:resource="http://eokh.org/eokp#data"/>
+    <ns1:uid>data0000011</ns1:uid>
+    <ns1:title>2000-2010 population data for Ordos City</ns1:title>
+    <ns1:resource_url>https://www.chinageoss.cn/datasharing/datasetDetails/65bf2f0d4fc7e8065c673c1e</ns1:resource_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#data0000005">
+    <rdf:type rdf:resource="http://eokh.org/eokp#data"/>
+    <ns1:uid>data0000005</ns1:uid>
+    <ns1:title>2000-2010 rainfall data of Erdos City</ns1:title>
+    <ns1:resource_url>https://www.chinageoss.cn/datasharing/datasetDetails/65bf017f4fc7e8065c663e1e</ns1:resource_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#data0000009">
+    <rdf:type rdf:resource="http://eokh.org/eokp#data"/>
+    <ns1:uid>data0000009</ns1:uid>
+    <ns1:title>Soil moisture data of Ordos City in 2010</ns1:title>
+    <ns1:resource_url>https://www.chinageoss.cn/datasharing/datasetDetails/65bf0c2a4fc7e8065c663e2e</ns1:resource_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#model0000002">
+    <rdf:type rdf:resource="http://eokh.org/eokp#model"/>
+    <ns1:uid>model0000002</ns1:uid>
+    <ns1:title>A dynamic system dynamics model of desertification coupled with natural-human factors</ns1:title>
+    <ns1:resource_url>nan</ns1:resource_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#data0000004">
+    <rdf:type rdf:resource="http://eokh.org/eokp#data"/>
+    <ns1:uid>data0000004</ns1:uid>
+    <ns1:title>Land use data of Ordos City in 2010</ns1:title>
+    <ns1:resource_url>https://data.tpdc.ac.cn/zh-hans/data/a75843b4-6591-4a69-a5e4-6f94099ddc2d</ns1:resource_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#software0000002">
+    <rdf:type rdf:resource="http://eokh.org/eokp#software"/>
+    <ns1:uid>software0000002</ns1:uid>
+    <ns1:title>Dynamic simulation software of desertification in Erdos City coupled with natural-human factors</ns1:title>
+    <ns1:resource_url>nan</ns1:resource_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#model0000001">
+    <rdf:type rdf:resource="http://eokh.org/eokp#model"/>
+    <ns1:uid>model0000001</ns1:uid>
+    <ns1:title>Visual Interpretation Methods for Human-Computer Interaction</ns1:title>
+    <ns1:resource_url>nan</ns1:resource_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#paper0000002">
+    <rdf:type rdf:resource="http://eokh.org/eokp#paper"/>
+    <ns1:uid>paper0000002</ns1:uid>
+    <ns1:title>A dynamic system dynamics model of desertification coupled with natural-human factors</ns1:title>
+    <ns1:resource_url>https://www.sciencedirect.com/science/article/pii/S1364815216301530</ns1:resource_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#case0000002">
+    <rdf:type rdf:resource="http://eokh.org/eokp#case"/>
+    <ns1:uid>case0000002</ns1:uid>
+    <ns1:title>Simulation of desertification dynamics in Erdos City from 2000 to 2030 with coupled natural-human factors</ns1:title>
+    <ns1:inputdata rdf:resource="http://eokh.org/eokp#data0000004"/>
+    <ns1:inputdata rdf:resource="http://eokh.org/eokp#data0000005"/>
+    <ns1:inputdata rdf:resource="http://eokh.org/eokp#data0000006"/>
+    <ns1:inputdata rdf:resource="http://eokh.org/eokp#data0000007"/>
+    <ns1:inputdata rdf:resource="http://eokh.org/eokp#data0000008"/>
+    <ns1:inputdata rdf:resource="http://eokh.org/eokp#data0000009"/>
+    <ns1:inputdata rdf:resource="http://eokh.org/eokp#data0000010"/>
+    <ns1:inputdata rdf:resource="http://eokh.org/eokp#data0000011"/>
+    <ns1:inputdata rdf:resource="http://eokh.org/eokp#data0000012"/>
+    <ns1:inputdata rdf:resource="http://eokh.org/eokp#data0000013"/>
+    <ns1:outputdata rdf:resource="http://eokh.org/eokp#data0000014"/>
+    <ns1:describedbypaper rdf:resource="http://eokh.org/eokp#paper0000002"/>
+    <ns1:implementedbyalgorithm rdf:resource="http://eokh.org/eokp#model0000002"/>
+    <ns1:implementedbysoftware rdf:resource="http://eokh.org/eokp#software0000002"/>
+    <ns1:describedbydocument rdf:resource="http://eokh.org/eokp#document0000001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#document0000001">
+    <rdf:type rdf:resource="http://eokh.org/eokp#document"/>
+    <ns1:uid>document0000001</ns1:uid>
+    <ns1:title>Explanatory document of simulation of desertification dynamics in Erdos City from 2000 to 2030 coupled with natural-human factors </ns1:title>
+    <ns1:resource_url>nan</ns1:resource_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#paper0000001">
+    <rdf:type rdf:resource="http://eokh.org/eokp#paper"/>
+    <ns1:uid>paper0000001</ns1:uid>
+    <ns1:title>Study on Land Use/Cover and Vegetation Cover Changes in Erdos City</ns1:title>
+    <ns1:resource_url>https://kns.cnki.net/kcms2/article/abstract?v=HboJJBuTKtQFhACEoLKyI3KmipjQNLzkurbsQO8CPhHpKABhPihRXe7ja0Kb443weoiwqbPEXIq3dd28E3OGLzOsDH7OHC_QT_dvfqcKOjoNMHtFqI_CZS-fMsve0ZDrDB54mVcdvwxd9GmmWARZZ1nBH2wCL11zLDcu5VO-GvU=&amp;uniplatform=NZKPT&amp;language=CHS</ns1:resource_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#data0000002">
+    <rdf:type rdf:resource="http://eokh.org/eokp#data"/>
+    <ns1:uid>data0000002</ns1:uid>
+    <ns1:title>Landsat-7-ETM raw remote sensing image dataset for the China region, July 1999-September 2004</ns1:title>
+    <ns1:resource_url>https://www.chinageoss.cn/rsgs/datasharing/datasetDetails/624686bf19d7dd03f13c8c2f</ns1:resource_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#data0000006">
+    <rdf:type rdf:resource="http://eokh.org/eokp#data"/>
+    <ns1:uid>data0000006</ns1:uid>
+    <ns1:title>2000-2010 temperature data for Ordos City</ns1:title>
+    <ns1:resource_url>https://www.chinageoss.cn/datasharing/datasetDetails/65bf06204fc7e8065c663e22</ns1:resource_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#data0000008">
+    <rdf:type rdf:resource="http://eokh.org/eokp#data"/>
+    <ns1:uid>data0000008</ns1:uid>
+    <ns1:title>Erdos City Vegetation Net Primary Productivity Dataset in 2010 </ns1:title>
+    <ns1:resource_url>https://www.chinageoss.cn/datasharing/datasetDetails/63ae7502f64eb66545fa03c7</ns1:resource_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#data0000001">
+    <rdf:type rdf:resource="http://eokh.org/eokp#data"/>
+    <ns1:uid>data0000001</ns1:uid>
+    <ns1:title>Landsat-5-TM raw remote sensing image dataset for China region, April 1986-November 2011</ns1:title>
+    <ns1:resource_url>https://www.chinageoss.cn/rsgs/datasharing/datasetDetails/624683ed19d7dd03f13c8c2c</ns1:resource_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#data0000010">
+    <rdf:type rdf:resource="http://eokh.org/eokp#data"/>
+    <ns1:uid>data0000010</ns1:uid>
+    <ns1:title>2000-2010 Erdos City GDP data</ns1:title>
+    <ns1:resource_url>https://www.chinageoss.cn/datasharing/datasetDetails/65bf2aa94fc7e8065c668222</ns1:resource_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#software0000001">
+    <rdf:type rdf:resource="http://eokh.org/eokp#software"/>
+    <ns1:uid>software0000001</ns1:uid>
+    <ns1:title>ARCGIS</ns1:title>
+    <ns1:resource_url>https://desktop.arcgis.com/</ns1:resource_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#data0000012">
+    <rdf:type rdf:resource="http://eokh.org/eokp#data"/>
+    <ns1:uid>data0000012</ns1:uid>
+    <ns1:title>Erdos City Road Transportation Network Data in 2010</ns1:title>
+    <ns1:resource_url>https://www.chinageoss.cn/datasharing/datasetDetails/65bf302f4fc7e8065c673c28</ns1:resource_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#case0000001">
+    <rdf:type rdf:resource="http://eokh.org/eokp#case"/>
+    <ns1:uid>case0000001</ns1:uid>
+    <ns1:title>Interpretation of Land Use Data in Ordos City</ns1:title>
+    <ns1:implementedbyalgorithm rdf:resource="http://eokh.org/eokp#model0000001"/>
+    <ns1:inputdata rdf:resource="http://eokh.org/eokp#data0000001"/>
+    <ns1:inputdata rdf:resource="http://eokh.org/eokp#data0000002"/>
+    <ns1:inputdata rdf:resource="http://eokh.org/eokp#data0000003"/>
+    <ns1:outputdata rdf:resource="http://eokh.org/eokp#data0000004"/>
+    <ns1:describedbypaper rdf:resource="http://eokh.org/eokp#paper0000001"/>
+    <ns1:implementedbysoftware rdf:resource="http://eokh.org/eokp#software0000001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#data0000014">
+    <rdf:type rdf:resource="http://eokh.org/eokp#data"/>
+    <ns1:uid>data0000014</ns1:uid>
+    <ns1:title>2011-2030 Ordos City net primary productivity of vegetation dataset</ns1:title>
+    <ns1:resource_url>https://www.chinageoss.cn/datasharing/datasetDetails/63ae7502f64eb66545fa03c7</ns1:resource_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#data0000013">
+    <rdf:type rdf:resource="http://eokh.org/eokp#data"/>
+    <ns1:uid>data0000013</ns1:uid>
+    <ns1:title>Ordos road surface elevation data</ns1:title>
+    <ns1:resource_url>https://www.chinageoss.cn/datasharing/datasetDetails/65bf302f4fc7e8065c673c28</ns1:resource_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eokh.org/eokp#data0000007">
+    <rdf:type rdf:resource="http://eokh.org/eokp#data"/>
+    <ns1:uid>data0000007</ns1:uid>
+    <ns1:title>2000-2010 solar radiation data for Ordos City </ns1:title>
+    <ns1:resource_url>https://www.chinageoss.cn/datasharing/datasetDetails/65bf07944fc7e8065c663e27</ns1:resource_url>
+  </rdf:Description>
+</rdf:RDF>
