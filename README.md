@@ -8,7 +8,8 @@ https://github.com/cks1999/ten-knowledge-package
 
 # RDF in Lod-cloud
 The RDF file contains the links and properties of the EOKP
-  * [EOKP RDF](https://lod-cloud.net/dataset/SWAT)
+  * [EOKP RDF github]((https://github.com/cks1999/EOKP/EOKP.rdf))
+  * [LOD]([https://lod-cloud.net/](https://lod-cloud.net/dataset/EOKP-Datasets))
 
 # Table of knowledge in Lod-Cloud
 Sample chart format for a single EOKP
