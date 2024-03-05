@@ -8,8 +8,8 @@ https://github.com/cks1999/ten-knowledge-package
 
 # RDF in Lod-cloud
 The RDF file contains the links and properties of the EOKP
-  * [EOKP RDF github]((https://github.com/cks1999/EOKP/EOKP.rdf))
-  * [LOD]([https://lod-cloud.net/](https://lod-cloud.net/dataset/EOKP-Datasets))
+  * [EOKP RDF github](https://github.com/cks1999/EOKP/EOKP.rdf)
+  * [LOD](https://lod-cloud.net/)
 
 # Table of knowledge in Lod-Cloud
 Sample chart format for a single EOKP
@@ -29,7 +29,7 @@ Sample chart format for a single EOKP
 
 # Related Links Lod-cloud
 Addresses in the LOD-Cloud
-* [Linked data]([https://lod-cloud.net/](https://lod-cloud.net/dataset/EOKP-Datasets))
+* [Linked data](https://lod-cloud.net/)
 
 
 # SPARQL endpoint
