@@ -13,7 +13,8 @@ The RDF file contains the links and properties of the EOKP
 
 # Table of knowledge in Lod-Cloud
 Sample chart format for a single EOKP
-![image](https://github.com/cks1999/EOKP/assets/27915729/e2962303-cf20-4c2c-a2cf-2beab47a7696)
+![Figure 5  The knowledge graph of the EO application case of ‘Simulation of desertification dynamics in Ordos City from 2000 to 2030 with coupled natural-human factors’](https://github.com/cks1999/EOKP/assets/27915729/5d56f5b6-3c80-4709-9c05-5cabb976dc4e)
+
   * [Simulation of desertification dynamics in Erdos City from 2000 to 2030 with coupled natural-human factors](https://lod-cloud.net/dataset/SDDEC)
   * [Interpretation of Land Use Data in Ordos City](https://lod-cloud.net/dataset/ILUSOC)
   * [Soil & Water Assessment Tool](https://lod-cloud.net/dataset/SWAT)
@@ -34,7 +35,10 @@ Addresses in the LOD-Cloud
 
 # SPARQL endpoint
 
-![image](https://github.com/cks1999/EOKP/assets/27915729/8a0bb49d-9bba-4e4a-9192-9eed0e93ed42)
+![Figure 9  SPARQL query terminal ](https://github.com/cks1999/EOKP/assets/27915729/e0ecf9cf-fefd-4785-a882-863b9ad15f2a)
+![Figure 10  EOKP association relationship query demo](https://github.com/cks1999/EOKP/assets/27915729/f1ba1209-b2c7-414b-beb7-5ead2d658ff5)
+
+
 
 # SPARQL demo
 
