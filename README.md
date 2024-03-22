@@ -30,7 +30,7 @@ Sample chart format for a single EOKP
 
 # Related Links Lod-cloud
 Addresses in the LOD-Cloud
-* [Linked data](https://lod-cloud.net/)
+* [Linked data](https://lod-cloud.net/dataset/EOKP-Datasets)
 
 
 # SPARQL endpoint
