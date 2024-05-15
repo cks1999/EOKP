@@ -1,7 +1,7 @@
 # Earth Observation Knowledge Packages
 EOKP, as the governance object of the Earth Observation Knowledge Hub (EOKH), is designed for a specific knowledge landscape with organic coupling of domain knowledge, applications, relationships and processes. The EOKH is governed by the Knowledge Package, which is an organic coupling of knowledge, applications, relationships and processes for a specific knowledge field, and is used to present the various elements required in a complete application case in a structured way. This is an organic coupling of domain knowledge, applications, relationships and processes in a specific knowledge landscape, which is used to structurally present the various elements and relationships required in a complete application case. The knowledge in these packages is organised and provided by the knowledge producers, and includes most of the knowledge, resources and methods required to complete an application. These packages are organised and provided by the knowledge producers and contain most of the knowledge, resources and methodologies required to complete an application, enabling other researchers and practitioners to learn and use the knowledge at a low cost. This enables other researchers and domain practitioners to learn and reproduce the knowledge, resources and methodologies at low cost, and then use them in other similar application scenarios. application scenarios. This document shares the RDF file, which contains detailed metadata, and collates some of the knowledge packages for distribution at LOD, a list of which is available at https://github.com/cks1999/EOKP
 
-Construction of Earth Observation Knowledge Hub based on Knowledge Graph，The knowledge package cases used in the article are url'd in http://cas.lod-cloud.net/, and the file
+Construction of Earth Observation Knowledge Hub based on Knowledge Graph，The knowledge package cases used in the article are url'd in https://lod-cloud.net/dataset/EOKP-Datasets, and the file
 https://github.com/cks1999/ten-knowledge-package
 
 
@@ -9,7 +9,7 @@ https://github.com/cks1999/ten-knowledge-package
 # RDF in Lod-cloud
 The RDF file contains the links and properties of the EOKP
   * [EOKP RDF github](https://github.com/cks1999/EOKP/EOKP.rdf)
-  * [LOD](https://lod-cloud.net/)
+  * [LOD-EOKP](https://lod-cloud.net/dataset/EOKP-Datasets)
 
 # Table of knowledge in Lod-Cloud
 Sample chart format for a single EOKP
